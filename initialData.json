@@ -1,0 +1,18 @@
+{
+   "notes":{
+       "jfsfsks":{
+           "header": "template-tag",
+           "description": "bla bla",
+           "categories": {
+               "somekey": {
+                   "word": "js"
+               }
+           }
+       },
+
+       "jfsfsks2":{
+        "header": "script-tag",
+        "description": "bla bla bla"
+    }
+   } 
+}
